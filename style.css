@@ -1,0 +1,109 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+
+.span1{
+    color:green;
+    font-size:50px;
+}
+#header1{
+    font-size: 65px;
+    margin-top: 10px;
+}
+#header2{
+    font-size:40px;
+}
+.div1{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left: 2%;
+}
+.div1 img{
+      width: 60%;
+}
+.linkbutton{
+    text-decoration:none;
+    background-image:linear-gradient(rgb(148, 236, 131), rgba(164, 224, 167, 0.76));
+    background-color:green;
+    padding:10px 20px;
+    border-radius:5px;
+    color: white;
+    font:weight 700;
+}
+
+.div2{
+    width: 40%;
+    float: right;
+    margin-right: 5%;
+    padding-right: 2%;
+}
+.div2 img{
+      width: 60%;
+}
+#Center{
+    text-align: center;
+    font-size: 30px;
+}
+.highlight{
+    color: rgb(255, 0, 0);
+}
+.banner{
+    padding: 60px;
+    background: rgb(238, 238, 238);
+    text-align: center;
+    border-radius: 5px;
+}
+.div3{
+    height: 30%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+    float: left;
+    margin: 20px;
+    display: block;
+    padding: 10px;
+    justify-content: center;
+    flex-direction: row;
+}
+.contain{
+    padding:left;
+    text-align: center;
+}
+.maindiv1{
+    display:flex;
+    justify-content:center;
+    margin:10px;
+}
+.section3{
+    background-image: url(Group_33094_1.png);
+    background-repeat:no-repeat;
+    background-size:60%;
+    border:center;
+    position:center;
+    display:flex;
+    margin-top: 10%;
+    margin-left:28%;
+    padding-bottom: 4%;
+}
+.div4{
+    padding:36px;
+    text-align:center;
+    font-size:30px;
+    display:flex;
+}
+
+.div5{ 
+    float: right;
+    padding-left:25%;
+    padding-top:7%;
+}
+footer p{
+    text-align:center;
+    font-size:25px;
+    
+}
+footer h4{
+    padding:left;
+    text-align: center;
+    font-size: 20px;
+}
